@@ -10,6 +10,8 @@ Simple MERN Passport App
 **A boilerplate example of using passport.js for authenticating a MERN application:**
 * [Github thechutrain MERN Passport](https://github.com/thechutrain/mern-passport)
 
+**A template and tutorial for integrating passport to a MERN app:*
 * [Github b-bly Simple MERN-Passport](https://github.com/b-bly/simple-mern-passport)
+
 * [Github nielsenjared MERN-Passport](https://github.com/nielsenjared/mern-passport)
 
